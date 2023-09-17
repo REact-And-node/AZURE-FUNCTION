@@ -1,0 +1,18 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=datbase;AccountKey=N7ZO5I3gYFf1SDOLIy0YU3ybMG2jjh3jYUPRlaF5gjUge9I3zWTWN+cfI8Vgpur+YwHx7w/YAvaJ+AStSOpNGg==",
+    "MONGODB_ATLAS_URI": "mongodb+srv://mdsheikh6234:Nafish14@cluster0.3uq0jza.mongodb.net/?retryWrites=true&w=majority",
+    "MONGODB_ATLAS_CLUSTER": "Cluster0",
+    "MONGODB_ATLAS_DATABASE": "azure-function",
+    "MONGODB_ATLAS_COLLECTION": "RESTAPI",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "f8916d8a-99e3-4ff8-9853-2a118d736feb",
+    "FUNCTIONS_EXTENSION_VERSION": "~4",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=datbase;AccountKey=N7ZO5I3gYFf1SDOLIy0YU3ybMG2jjh3jYUPRlaF5gjUge9I3zWTWN+cfI8Vgpur+YwHx7w/YAvaJ+AStSOpNGg==",
+    "WEBSITE_CONTENTSHARE": "funcrestapinodejs96a8c209885a",
+    "WEBSITE_NODE_DEFAULT_VERSION": "~18",
+    "secretKey": "jwt-token"
+  },
+  "ConnectionStrings": {}
+}
